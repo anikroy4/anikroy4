@@ -121,24 +121,16 @@ const anikRoy = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anikroy4">
-    <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/anikroy4">
-    <img src="https://streak-stats.demolab.com?user=anikroy4&theme=radical" alt="GitHub Streak" height="180" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anikroy4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical" alt="Top Languages" height="180" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anikroy4">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=0d1117&color=79dafa&line=638fda&point=ff6bcb&area_color=638fda&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="95%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=0d1117&color=79dafa&line=638fda&point=ff6bcb&area_color=638fda&area=true&custom_title=Contribution%20Graph" width="95%" />
 </p>
 
 ---
@@ -146,9 +138,7 @@ const anikRoy = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/anikroy4">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=false&margin-w=4" />
 </p>
 
 ---
