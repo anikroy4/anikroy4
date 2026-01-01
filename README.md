@@ -137,7 +137,7 @@ const anikRoy = {
 
 <p align="center">
   <a href="https://github.com/anikroy4">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=017091&color=ff0048&line=ff0048&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=0d1117&color=79dafa&line=638fda&point=ff6bcb&area_color=638fda&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="95%" />
   </a>
 </p>
 
