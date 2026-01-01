@@ -122,16 +122,16 @@ const anikRoy = {
 
 <p align="center">
   <a href="https://github.com/anikroy4">
-    <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/anikroy4">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=radical&hide_border=false" alt="GitHub Streak" height="180" />
+    <img src="https://streak-stats.demolab.com?user=anikroy4&theme=radical" alt="GitHub Streak" height="180" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anikroy4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical" alt="Top Languages" height="180" />
   </a>
 </p>
 
@@ -147,7 +147,7 @@ const anikRoy = {
 
 <p align="center">
   <a href="https://github.com/anikroy4">
-    <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
