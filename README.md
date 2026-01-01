@@ -120,28 +120,42 @@ const anikRoy = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=radical" height="180" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="195" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" height="195" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical" height="180" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="200" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=0d1117&color=79dafa&line=638fda&point=ff6bcb&area_color=638fda&area=true&custom_title=Contribution%20Graph" width="95%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=0d1117&color=79dafa&line=638fda&point=ff6bcb&area_color=638fda&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
+</div>
 
----
+<br/>
 
-## 🏆 GitHub Achievements
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=false&margin-w=4" />
-</p>
+## <img src="https://media.giphy.com/media/W5BWeNVLPq2fVtobc8/giphy.gif" width="35"> GitHub Achievements
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anikroy4&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Wakatime Stats" />
+</div>
 
 ## ✍️ Random Dev Quote
 
