@@ -126,8 +126,8 @@ const anikRoy = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=anikroy4&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=donut&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <div align="center">
