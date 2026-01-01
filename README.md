@@ -147,7 +147,7 @@ const anikRoy = {
 
 <p align="center">
   <a href="https://github.com/anikroy4">
-    <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
   </a>
 </p>
 
