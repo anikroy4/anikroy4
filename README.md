@@ -120,31 +120,30 @@ const anikRoy = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=anikroy4&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikroy4&theme=radical" alt="GitHub Streak" height="165" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+</p>
 
 <br/>
 
