@@ -121,24 +121,17 @@ const anikRoy = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="195" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" height="195" />
-      </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="200" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=anikroy4&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=0d1117&color=79dafa&line=638fda&point=ff6bcb&area_color=638fda&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="98%" />
 </div>
 
 <br/>
@@ -148,13 +141,7 @@ const anikRoy = {
 ## <img src="https://media.giphy.com/media/W5BWeNVLPq2fVtobc8/giphy.gif" width="35"> GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anikroy4&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Wakatime Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" width="98%" />
 </div>
 
 ## ✍️ Random Dev Quote
