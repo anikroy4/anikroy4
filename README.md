@@ -121,12 +121,24 @@ const anikRoy = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikroy4&theme=radical" alt="GitHub Streak" height="165" />
+  <a href="https://github.com/anikroy4">
+    <img src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/anikroy4">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=radical&hide_border=false" alt="GitHub Streak" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <a href="https://github.com/anikroy4">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anikroy4">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=141321&color=ff0048&line=ff0048&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" width="95%" />
+  </a>
 </p>
 
 ---
@@ -134,7 +146,9 @@ const anikRoy = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com/anikroy4">
+    <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
