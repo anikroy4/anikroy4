@@ -141,13 +141,17 @@ const anikRoy = {
 ## <img src="https://media.giphy.com/media/W5BWeNVLPq2fVtobc8/giphy.gif" width="35"> GitHub Achievements
 
 <div align="center">
-  <a href="https://github.com/anikroy4?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Official%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
+  <a href="https://github.com/anikroy4?tab=achievements">
+    <img src="https://img.shields.io/badge/Official%20GitHub%20Achievements-View%20Now-181717?style=for-the-badge&logo=github&logoColor=white" alt="Official GitHub Achievements" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="98%" alt="GitHub Trophies" />
+  <sub>Note: GitHub achievements are only viewable on GitHub. The card below is a community trophy widget.</sub>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="98%" alt="Community Trophy Widget" />
 </div>
 
 ## ✍️ Random Dev Quote
