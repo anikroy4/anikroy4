@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anik%20Roy&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20UI/UX%20Designer&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anik%20Roy&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20UI%2FUX%20Designer&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
   <a href="https://facebook.com/anikroy1009">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://instagram.com/anikroy1009">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=anikroy4&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -31,7 +31,7 @@
 
 ```typescript
 const anikRoy = {
-  pronouns: "He" | "Him",
+  pronouns: "He/Him",
   location: "Bangladesh 🇧🇩",
   currentFocus: ["Full-Stack Development", "MERN Stack", "UI/UX Design"],
   learning: ["Next.js", "TypeScript", "Cloud Architecture"],
@@ -93,7 +93,7 @@ const anikRoy = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🔧 Tools & Technologies
