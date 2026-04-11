@@ -32,8 +32,8 @@
 ```typescript
 const anikRoy = {
   pronouns: "He/Him",
-  location: "Bangladesh 🇧🇩",
-  currentFocus: ["Full-Stack Development", "MERN Stack", "UI/UX Design"],
+  location: " Dhaka, Bangladesh (🇧🇩)",
+  currentFocus: ["Full-Stack Development (MERN)","Frontend Developer" "UI/UX Design"],
   learning: ["Next.js", "TypeScript", "Cloud Architecture"],
   hobbies: [
     "Coding 💻",
@@ -123,11 +123,11 @@ const anikRoy = {
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=anikroy4&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=donut&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -153,7 +153,7 @@ const anikRoy = {
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Community Trophy Widget" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="100%" alt="Community Trophy Widget" />
 </p>
 
 ## ✍️ Random Dev Quote
