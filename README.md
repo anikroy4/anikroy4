@@ -122,14 +122,14 @@ const anikRoy = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> -->
   <img width="48%" src="https://streak-stats.demolab.com?user=anikroy4&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="98%" />
