@@ -116,43 +116,45 @@ const anikRoy = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anikroy4&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=donut&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=donut&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="98%" />
-</div>
+</p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/W5BWeNVLPq2fVtobc8/giphy.gif" width="35"> GitHub Achievements
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anikroy4?tab=achievements">
     <img src="https://img.shields.io/badge/Official%20GitHub%20Achievements-View%20Now-181717?style=for-the-badge&logo=github&logoColor=white" alt="Official GitHub Achievements" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <sub>Note: GitHub achievements are only viewable on GitHub. The card below is a community trophy widget.</sub>
-</div>
+<p align="center">
+  <kbd>Note: GitHub achievements are only viewable on GitHub. The card below is a community trophy widget.</kbd>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anikroy4&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="98%" alt="Community Trophy Widget" />
-</div>
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Community Trophy Widget" />
+</p>
 
 ## ✍️ Random Dev Quote
 
