@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anik%20Roy&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20UI%2FUX%20Designer&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
-</div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BEFF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%9B%EF%B8%8F;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+# Anik Roy
+
+### Full-stack developer · MERN enthusiast · UI/UX designer
 
 </div>
 
@@ -25,15 +23,13 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## About Me
 
 ```typescript
 const anikRoy = {
   pronouns: "He/Him",
-  location: " Dhaka, Bangladesh (🇧🇩)",
-  currentFocus: ["Full-Stack Development (MERN)","Frontend Developer" "UI/UX Design"],
+  location: "Dhaka, Bangladesh",
+  currentFocus: ["Full-Stack Development (MERN)", "Frontend Development", "UI/UX Design"],
   learning: ["Next.js", "TypeScript", "Cloud Architecture"],
   hobbies: [
     "Coding 💻",
@@ -45,9 +41,7 @@ const anikRoy = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Technical Arsenal
+## Technical Arsenal
 
 <table>
 <tr>
@@ -64,20 +58,19 @@ const anikRoy = {
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### 🎨 UI Styling & Component Systems
+### 🎨 Styling & Component Systems
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![ShadCN/UI](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🧩 Programming Languages
+### 🧩 Other Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=orange)
 
 </td>
 <td valign="top" width="50%">
@@ -86,14 +79,17 @@ const anikRoy = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge&logo=swagger&logoColor=white)
 
-### 🗄️ Databases, BaaS & Hosting
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Backend Services
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🚀 Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Render](https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=46E3B7)
@@ -105,6 +101,7 @@ const anikRoy = {
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
 ### 🎨 Design & Creative Tools
 ![Framer](https://img.shields.io/badge/Framer-224248?style=for-the-badge&logo=framer&logoColor=orange)
@@ -119,31 +116,19 @@ const anikRoy = {
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anikroy4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=anikroy4&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=anikroy4&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<!-- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikroy4&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikroy4&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true" width="98%" alt="GitHub activity graph" />
 </p>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/W5BWeNVLPq2fVtobc8/giphy.gif" width="35"> GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/anikroy4?tab=achievements">
@@ -162,12 +147,10 @@ const anikRoy = {
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" />
 </p>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -175,10 +158,8 @@ const anikRoy = {
 
 _"Code is like humor. When you have to explain it, it's bad." – Cory House_
 
-[![](https://visitcount.itsvg.in/api?id=anikroy4&icon=5&color=3)](https://visitcount.itsvg.in)
+[![Profile views](https://visitcount.itsvg.in/api?id=anikroy4&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ### ⭐ Don't forget to star my repositories if you find them interesting!
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
